@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
+Testing other stuff
 
 ### **FAQ**
 
