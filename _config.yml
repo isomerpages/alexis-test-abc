@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://alexis-test-abc-staging.netlify.app
 prod: https://alexis-test-abc-prod.netlify.app
-resources_name: testrm
+resources_name: testrmom
