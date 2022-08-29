@@ -2,5 +2,5 @@ collections:
   testfolder:
     output: true
     order:
-      - Example Title.md
       - faq.md
+      - Example Title.md
