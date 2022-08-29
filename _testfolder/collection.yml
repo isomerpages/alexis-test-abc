@@ -2,6 +2,7 @@ collections:
   testfolder:
     output: true
     order:
+      - Content.md
       - 爱爱爱爱爱爱.md
       - லோரம் இப்சம்.md
       - faq.md
