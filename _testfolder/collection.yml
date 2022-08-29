@@ -2,7 +2,7 @@ collections:
   testfolder:
     output: true
     order:
-      - Example Title.md
-      - faq.md
-      - Dir111/Example Title.md
       - Dir111/.keep
+      - Dir111/Example Title.md
+      - faq.md
+      - Example Title.md
