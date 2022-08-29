@@ -4,4 +4,5 @@ collections:
     order:
       - Example Title.md
       - faq.md
+      - Dir111/Example Title.md
       - Dir111/.keep
