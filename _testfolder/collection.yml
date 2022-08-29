@@ -2,5 +2,6 @@ collections:
   testfolder:
     output: true
     order:
+      - Dir111/.keep
       - Example Title.md
       - faq.md
