@@ -2,6 +2,7 @@ collections:
   testfolder:
     output: true
     order:
+      - லோரம் இப்சம்.md
       - Example Title@!.md
       - faq.md
       - Dir111/.keep
